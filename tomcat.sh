@@ -1,3 +1,4 @@
+yum install java-17-amazon-corretto -y
 amazon-linux-extras install java-openjdk11 -y
 wget https://dlcdn.apache.org/tomcat/tomcat-11/v11.0.9/bin/apache-tomcat-11.0.9.tar.gz
 tar -zxvf apache-tomcat-11.0.9.tar.gz
